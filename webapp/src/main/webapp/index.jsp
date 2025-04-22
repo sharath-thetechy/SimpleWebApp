@@ -43,7 +43,7 @@ header{
 }
 
 #menu li a{
-    color: #00008B
+    color: #000080;
     text-decoration: none;
     font-size: 20px;
 }
@@ -89,7 +89,7 @@ h1{
     
     <section id="home">
         <header>
-            <span style="font-size:64px;margin-right:10px;color:orange">Flipkart shopping website</span>
+            <span style="font-size:50px;margin-right:10px;color:Blue">Flipkart shopping website</span>
             <ul id="menu">
                 <li><a href="#home">Home</a></li>
                 <li><a href="#about">About Us</a></li>

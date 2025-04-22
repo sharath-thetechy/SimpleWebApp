@@ -43,7 +43,7 @@ header{
 }
 
 #menu li a{
-    color: #fff;
+    color: #00008B
     text-decoration: none;
     font-size: 20px;
 }

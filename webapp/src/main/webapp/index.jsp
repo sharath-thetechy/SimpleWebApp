@@ -80,7 +80,7 @@ h1{
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    color: #fff;
+    color: #4169E1;
 }
 </style>
 </head>
